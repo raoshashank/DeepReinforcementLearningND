@@ -1,0 +1,9 @@
+[submodule "Navigation-using-DQN"]
+	path = Navigation-using-DQN
+	url = https://github.com/raoshashank/Navigation-using-DQN
+[submodule "Continouous-Control-with-DDPG"]
+	path = Continouous-Control-with-DDPG
+	url = https://github.com/raoshashank/Continouous-Control-with-DDPG
+[submodule "Tennis-with-MADDPG"]
+	path = Tennis-with-MADDPG
+	url = https://github.com/raoshashank/Tennis-with-MADDPG
